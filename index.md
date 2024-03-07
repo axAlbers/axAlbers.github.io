@@ -1,3 +1,8 @@
-# Hello World
+---
+title: Hello world
+layout: default
+---
 
-Det här är min personliga sida på GitHub
+Hello world
+
+Webbplats: {{ site.title }}
